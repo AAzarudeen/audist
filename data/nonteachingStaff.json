@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Ms.M.Hamsarekha",
+        "title": "Superintendent",
+        "email": "",
+        "phone": "",
+        "image": "hamsarekha.JPG",
+        "profileLink": ""
+    },
+    {
+        "name": "Mr.R.Arunprasad",
+        "title": "Skilled Assistant Grade - I",
+        "email": "",
+        "phone": "",
+        "image": "Arunprasad.jpg",
+        "profileLink": ""
+    },
+    {
+        "name": "H.Raja",
+        "title": "Skilled Assistant Grade - I",
+        "email": "",
+        "phone": "",
+        "image": "raja.jpg",
+        "profileLink": ""
+    },
+    {
+        "name": "Mr.M.Srinivasan",
+        "title": "Lab Assistant",
+        "email": "",
+        "phone": "",
+        "image": "srinivas.jpg",
+        "profileLink": ""
+    },
+    {
+        "name": "Mr.V.Sudhakar",
+        "title": "helper",
+        "email": "",
+        "phone": "",
+        "image": "sudhakar.JPG",
+        "profileLink": ""
+    },
+    {
+        "name": "Mr. J. Purushothaman",
+        "title": "Professional Assistant II",
+        "email": "purushothmunch@gmail.com",
+        "phone": "9790788441, 044 2235 9296",
+        "image": "Purushothaman.jpg",
+        "profileLink": ""
+    },
+    {
+        "name": "Mr. M. Ramamoorthy",
+        "title": "Professional Assistant III",
+        "email": "ram132439@gmail.com",
+        "phone": "9965387480, 044 2235 9296",
+        "image": "Ramamoorthy.jpg",
+        "profileLink": ""
+    },
+    {
+        "name": "Mr. V. Kevin",
+        "title": "Peon",
+        "email": "kevinvincent1990@gmail.com",
+        "phone": "8754518124, 044 2235 9296",
+        "image": "Kevin.jpg",
+        "profileLink": ""
+    }
+    
+]
